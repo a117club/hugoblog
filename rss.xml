@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 20 Feb 2023 09:45:53 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 10:10:50 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -48,6 +48,47 @@
                     
                         
                     
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>简单的测试</title>
+                <link>https://example.com/post/second/</link>
+                <guid isPermaLink="true">https://example.com/post/second/</guid>
+                <pubDate>Sat, 18 Feb 2023 00:00:00 &#43;0000</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;测试文本&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/hugo/">hugo</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/hugo/">hugo</category>
+                                
+                            
                         
                     
                 
