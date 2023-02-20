@@ -2,30 +2,30 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title type="text">Hugo Theme MemE</title>
+    <title type="text">歧艺的博客</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-02-20T13:07:40&#43;08:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2023-02-20T13:28:22&#43;08:00</updated>
+    <id>https://www.a117.club/</id>
+    <link rel="alternate" type="text/html" href="https://www.a117.club/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://www.a117.club/atom.xml" />
     <author>
-            <name>reuixiy</name>
-            <uri>https://example.com/</uri>
+            <name>a117club</name>
+            <uri>https://www.a117.club/</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>a117club@outlook.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
         <entry>
             <title type="text">今晚还玩铲子不？小刘</title>
-            <link rel="alternate" type="text/html" href="https://example.com/post/first/" />
-            <id>https://example.com/post/first/</id>
+            <link rel="alternate" type="text/html" href="https://www.a117.club/post/first/" />
+            <id>https://www.a117.club/post/first/</id>
             <updated>2023-02-18T10:11:58&#43;08:00</updated>
             <published>2023-02-18T10:10:54&#43;08:00</published>
             <author>
-                    <name>reuixiy</name>
+                    <name>a117club</name>
                     <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <email>a117club@outlook.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">带你飞</summary>
             
@@ -46,14 +46,14 @@
     
         <entry>
             <title type="text">简单的测试</title>
-            <link rel="alternate" type="text/html" href="https://example.com/post/second/" />
-            <id>https://example.com/post/second/</id>
+            <link rel="alternate" type="text/html" href="https://www.a117.club/post/second/" />
+            <id>https://www.a117.club/post/second/</id>
             <updated>2023-02-20T10:09:46&#43;08:00</updated>
             <published>2023-02-18T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
+                    <name>a117club</name>
                     <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <email>a117club@outlook.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">测试文本</summary>
             
@@ -70,7 +70,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/categories/hugo/" term="hugo" label="hugo" />
+                                <category scheme="https://www.a117.club/categories/hugo/" term="hugo" label="hugo" />
                             
                         
                     
@@ -80,7 +80,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/tags/hugo/" term="hugo" label="hugo" />
+                                <category scheme="https://www.a117.club/tags/hugo/" term="hugo" label="hugo" />
                             
                         
                     
